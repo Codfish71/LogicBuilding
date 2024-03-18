@@ -5,6 +5,8 @@
 .project
 .settings
 .gradle
+**/.gradle/
+**/.gradle/*
 **/build/
 
 # Package Files #
